@@ -1,7 +1,8 @@
 #include <stdio.h>
-
 int main(){
- 	printf({"Hello!, GIT!");
-  printf("Im Jeff")
+
+ 	printf("Hello!, GIT!");
+        printf("Im Guduyo");
+
 
 }
